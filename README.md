@@ -28,3 +28,5 @@ layout: nil
 ## Edit the design
 
 The default UI is mostly described through the `css/style.css` file and a couple short jQuery scripts in the `/_layouts/default.html` layout. Hack it to oblivion.
+
+Make sure the post's filename is in this format: year-month-day-title.md
