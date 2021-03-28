@@ -42,8 +42,7 @@ code {
 #sidebar {
   background: #191919;
   color: #fff;
-  float: left;  
-  height: 100%;
+  float: left;
   overflow: auto;
   position: relative;
   top: 0;
