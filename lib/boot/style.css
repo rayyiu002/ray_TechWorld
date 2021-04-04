@@ -43,7 +43,8 @@ code {
   background: #191919;
   color: #fff;
   float: left;
-  height: 100%;
+  height: auto;
+  min-height : 100%;
   overflow: auto;
   position: relative;
   top: 0;
