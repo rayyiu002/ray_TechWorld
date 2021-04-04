@@ -43,7 +43,7 @@ code {
   background: #191919;
   color: #fff;
   float: left;
-  height: 3000%;
+  height: 100%;
   overflow: auto;
   position: relative;
   top: 0;
@@ -239,3 +239,5 @@ code {
   padding: 15px;
   white-space: pre;
 }
+
+
