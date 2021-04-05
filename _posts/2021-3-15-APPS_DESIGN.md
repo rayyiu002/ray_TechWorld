@@ -56,14 +56,13 @@ https://uxplanet.org/create-emotion-with-color-in-ux-design-446a3766b085#.833er7
 ### 6. UI &  UX Design for mobile
 App is a visual journey. Button should look clickable, words should be aligned and clear,  provide contextual tips and hints, minimize the number of steps for achieve the core functionality within the app
 + 6.1 	Golden Rules of User Interface Design:\
-      	https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b#.kfznrp77q
+      	[https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b#.kfznrp77q](https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b#.kfznrp77q)
 
 + 6.2   Flat design for iOS\
-        https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
+        [https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 
 + 6.3   Material design for Android\
-        https://material.io/design/
-
+        [https://material.io/design/](https://material.io/design/)
 
 ### 7. Steps for apps desgin
 
@@ -79,20 +78,19 @@ App is a visual journey. Button should look clickable, words should be aligned a
 ### 8. Resources
 
 + 8.1 Wireframing Resources: UI Stencils' Free Downloadable Design Templates\
-http://www.uistencils.com/blogs/news/ui-stencils-drafting-templates
+[http://www.uistencils.com/blogs/news/ui-stencils-drafting-templates](http://www.uistencils.com/blogs/news/ui-stencils-drafting-templates)
 
 + 8.2 Free Download of Pop App by WooMoo\
-	+ iOS: https://itunes.apple.com/app/id555647796\
-	+ Android: https://play.google.com/store/apps/details?id=in.w...
-	+ Wireframe: https://wireframe.cc/
-    + Canva: https://www.canva.com/
+	+ iOS: [https://itunes.apple.com/app/id555647796](https://itunes.apple.com/app/id555647796)
+	+ Wireframe: [https://wireframe.cc/](https://wireframe.cc/)
+    + Canva: [https://www.canva.com/](https://www.canva.com/)
     
 + 8.3 Where to Find Free-For-Commercial use Image Assets
 
 + 8.4 For HD photographic Images:
-+ http://www.resplashed.com/
-+ https://pixabay.com/
++ [http://www.resplashed.com/](http://www.resplashed.com/)
++ [https://pixabay.com/](https://pixabay.com/)
 
-+8.5 For vector images:
-+ https://www.vecteezy.com/
-+ http://www.freepik.com/
++ 8.5 For vector images:
++ [https://www.vecteezy.com/](https://www.vecteezy.com/)
++ [http://www.freepik.com/](http://www.freepik.com/)
