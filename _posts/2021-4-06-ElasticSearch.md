@@ -15,8 +15,6 @@ layout: null
 
 ### 1. Indices and Types
 
-```localhost:9200/{index}/{type}/```
-
 + 1.1 API　Example
 
 ```localhost:9200/test/users/1```
