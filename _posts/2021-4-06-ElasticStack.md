@@ -31,7 +31,7 @@ layout: null
 ![elastic_stack_basic_deploy](https://github.com/rayyiu002/ray_TechWorld/blob/gh-pages/image/elastic_stack_basic_deploy.png?raw=true)
 
 + 2.2 Advanced deployment of ELK with HA
-![elastic_stack_ha_deploy](https://github.com/rayyiu002/ray_TechWorld/blob/gh-pages/image/elastic_stack_ha_deploy.png?raw=true)
+![elastic_stack_ha_deploy](https://github.com/rayyiu002/ray_TechWorld/blob/gh-pages/image/elastic_stack_ha_deploy.png =1280x720)
 
 + 2.3 Advanced deployment with HA and Redis
 ![elastic_stack_ha_deploy_with_redis](https://github.com/rayyiu002/ray_TechWorld/blob/gh-pages/image/elastic_stack_ha_deploy_with_redis.png?raw=true)
@@ -41,7 +41,7 @@ layout: null
 
 <br/>
 
-![elastic_stack_ha_deploy_with_kafka](https://github.com/rayyiu002/ray_TechWorld/blob/gh-pages/image/elastic_stack_ha_deploy_with_kafka2.png?raw=true)
+![elastic_stack_ha_deploy_with_kafka](https://github.com/rayyiu002/ray_TechWorld/blob/gh-pages/image/elastic_stack_ha_deploy_with_kafka_2.png?raw=true)
 
 ### Reference
 + [https://dzone.com/articles/introduction-to-elasticsearch-and-the-elk-stack](https://dzone.com/articles/introduction-to-elasticsearch-and-the-elk-stack)
